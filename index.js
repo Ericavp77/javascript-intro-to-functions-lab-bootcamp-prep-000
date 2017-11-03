@@ -20,7 +20,8 @@ return "I can't hear you!"
  if (string.toUpperCase()) {
   return "YES INDEED!"
 
-} }var sayHiToGrandma = function (string) {
+} var sayHiToGrandma = function (string) {
+  
   if (sayHiToGrandma === "I love you, Grandma.")
   return "I love you, too."
 }
